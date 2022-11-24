@@ -1,7 +1,7 @@
 - 👋 Hi, I’m waiwai
 - 👀 I’m interested in play games
 - 🌱 I’m currently learning c++
-- 💞️ I’m I am Prepare for graduate school
+- 💞️ I am Prepare for graduate school
 - 📫 My email wang68398@gmail.com
 
 <!---
