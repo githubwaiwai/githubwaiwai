@@ -1,8 +1,8 @@
 - 👋 Hi, I’m waiwai
 - 👀 I’m interested in play games
 - 🌱 I’m currently learning c++
-- 💞️ I’m I am preparing for graduate school
-- 📫 How to reach me wang68398@gmail.com
+- 💞️ I’m I am Prepare for graduate school
+- 📫 My email wang68398@gmail.com
 
 <!---
 githubwaiwai/githubwaiwai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
